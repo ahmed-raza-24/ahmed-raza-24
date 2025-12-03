@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web development projects<br>Personal projects like Skillswap, Multiple Disease Prediction, Budget Management, and more<br><br>👯 I’m looking to collaborate on<br>Web development projects (Frontend + Backend)<br>JavaScript, React, Node.js, or Django based apps<br>Open-source contributions<br><br>🤝 I’m looking for help with<br>Improving UI/UX skills<br>Advanced backend architecture<br>Optimizing project performance<br><br>🌱 I’m currently learning<br>MERN Stack (MongoDB, Express, React, Node.js)<br>Full-stack development<br>Data Structures & Algorithms<br><br>💬 Ask me about<br>Web development<br>JavaScript, HTML, CSS<br>Backend APIs (Node.js / Django)<br>Databases (MongoDB / SQL)<br>Game development (mini JS games)<br><br>⚡ Fun fact<br>I break things… and then fix them better 😎<br>I love chess, drawing, painting — and creating cool projects
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>Web development projects (Frontend + Backend)<br>JavaScript, React, Node.js, or Django based apps<br><br>🌱 I’m currently learning<br>MERN Stack (MongoDB, Express, React, Node.js)<br>Full-stack development<br>Data Structures & Algorithms<br><br>💬 Ask me about<br>Web development<br>JavaScript, HTML, CSS<br>Backend APIs (Node.js / Django)<br>Databases (MongoDB / SQL)<br>Game development (mini JS games)<br><br>⚡ Fun fact<br>I break things… and then fix them better 😎<br>I love chess, drawing, painting — and creating cool projects
 
 
 ## 🌐 Socials:
