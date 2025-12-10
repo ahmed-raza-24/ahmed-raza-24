@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br> Web Development<br><br>👯 I’m looking to collaborate on<br>Web development projects (Frontend + Backend)<br>JavaScript, React, Node.js, or Django based apps<br><br>🌱 I’m currently learning<br>MERN Stack (MongoDB, Express, React, Node.js), Full-stack development<br>Data Structures & Algorithms<br><br>💬 Ask me about<br>Web development, JavaScript, HTML, CSS, Backend APIs (Node.js / Django)<br>Databases (MongoDB / SQL)<br>Game development (mini JS games)<br><br>⚡ Fun fact<br>I break things… and then fix them better 😎<br>I love chess, drawing, painting — and creating cool projects
+🔭 I’m currently working on<br> -Web Development<br><br>👯 I’m looking to collaborate on<br>-Web development projects (Frontend + Backend)<br>-JavaScript, React, Node.js, or Django based apps<br><br>🌱 I’m currently learning<br>-MERN Stack (MongoDB, Express, React, Node.js), Full-stack development<br>-Data Structures & Algorithms<br><br>💬 Ask me about<br>-Web development, JavaScript, HTML, CSS, Backend APIs (Node.js / Django)<br>-Databases (MongoDB / SQL)<br>-Game development (mini JS games)<br><br>⚡ Fun fact<br>-I break things… and then fix them better 😎<br>-I love chess, drawing, painting — and creating cool projects
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ahmed-raza-24&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-raza-24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ⭐ Thanks For Visiting!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
