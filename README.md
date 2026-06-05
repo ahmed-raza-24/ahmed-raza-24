@@ -17,42 +17,22 @@
 
 ## 💫 About Me
 
-- 🎓 **CS Graduate** — Visvesvaraya Technological University, 2025 (CGPA: 7.06 | Top 15% of batch)
-- 💼 **Data Science Intern** @ Take It Smart, Bangalore (Feb – May 2025) — Python pipelines, Power BI dashboards, scikit-learn (92% model accuracy)
-- 🔭 Currently building a **Creator-Brand Collaboration Platform** — Next.js, Supabase, Google OAuth, PostgreSQL
-- 👯 Open to collaborate on **Full Stack / Frontend / Backend** projects
-- 💬 Ask me about **React, Next.js, Node.js, REST APIs, Supabase, PostgreSQL**
-- ⚡ Fun fact: I just start the work & things get done somehow 😎 · Chess · Drawing · Cool projects
+- 🎓 **CS Graduate** — VTU 2025 · CGPA 7.06 · Top 15% of batch
+- 💼 **Data Science Intern** @ Take It Smart, Bangalore (Feb – May 2025)
+- 🔭 Currently building a **Creator-Brand Collaboration Platform**
+- 🌱 Deepening skills in **Mern Stack Development**
+- 💬 Ask me about **React · Next.js · Node.js · Supabase · PostgreSQL**
+- ⚡ I just start the work & things get done somehow 😎 · Chess · Drawing
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤝 Creator-Brand Collaboration Platform
-> **Next.js · React · TypeScript · Supabase · PostgreSQL · Google OAuth · Tailwind CSS · Vercel**
-
-- Built full-stack platform with **Google OAuth + Supabase Auth** and role-based access control (creators vs brands)
-- Engineered campaign lifecycle: creation → submission → approval → real-time performance tracking
-- PostgreSQL schema with normalized tables, foreign key relationships — **30% reduction in query redundancy**
-- **100% mobile compatible** responsive UI with Tailwind CSS
-
----
-
-### 📊 Blinkit-Style Analytics Dashboard *(Data Science Internship Project)*
-> **Python · Power BI · Excel · scikit-learn · pandas**
-
-- Analyzed **100,000+ data rows**, increasing data insight visibility by **40%**
-- Built **Multiple Disease Prediction System** with **92% model accuracy**
-- Delivered 2 end-to-end projects in 3 months inside an agile sprint cycle
-
----
-
-### 🔄 SkillSwap — Learning & Collaboration Platform
-> **Next.js · MongoDB · Node.js · Google OAuth · React · TypeScript · Tailwind CSS · Vercel**
-
-- Mentor-student platform with secure Google OAuth, RBAC, and session persistence
-- RESTful APIs with Node.js + MongoDB for real-time data handling
-- Serving **500+ potential learners** — deployed production-ready on Vercel
+| 🤝 Creator-Brand Platform | 📊 Analytics Dashboard | 🔄 SkillSwap Platform |
+|:---:|:---:|:---:|
+| Next.js · Supabase · PostgreSQL · Google OAuth · Tailwind | Python · Power BI · scikit-learn · pandas · Excel | Next.js · MongoDB · Node.js · Google OAuth · Tailwind |
+| Role-based access · Campaign lifecycle · Real-time metrics | 100K+ rows · 92% ML accuracy · 40% insight boost | Mentor-student collab · RBAC · 500+ potential users |
+| `Full Stack` | `Data Science` | `Full Stack` |
 
 ---
 
