@@ -19,20 +19,21 @@
 
 - 🎓 **CS Graduate** — VTU 2025 · CGPA 7.06 · Top 15% of batch
 - 💼 **Data Science Intern** @ Take It Smart, Bangalore (Feb – May 2025)
-- 🔭 Currently building a **AI Interview Mocker Platform**
-- 🌱 Deepening skills in **Mern Stack Development**
-- 💬 Ask me about **React · Next.js · Node.js · Supabase · PostgreSQL**
+- 💼 **Web Development Intern** @ Dotch Endeavours, Mysore (Oct – Nov 2023)
+- 🔭 Currently building a **Creator-Brand Collaboration Platform**
+- 🌱 Deepening skills in **AI Integration & MERN Stack Development**
+- 💬 Ask me about **React · Next.js · Node.js · Supabase · Gemini AI**
 - ⚡ I just start the work & things get done somehow 😎 · Chess · Drawing
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🤝 Creator-Brand Platform | 📊 Analytics Dashboard | 🔄 SkillSwap Platform |
-|:---:|:---:|:---:|
-| Next.js · Supabase · PostgreSQL · Google OAuth · Tailwind | Python · Power BI · scikit-learn · pandas · Excel | Next.js · MongoDB · Node.js · Google OAuth · Tailwind |
-| Role-based access · Campaign lifecycle · Real-time metrics | 100K+ rows · 92% ML accuracy · 40% insight boost | Mentor-student collab · RBAC · 500+ potential users |
-| `Full Stack` | `Data Science` | `Full Stack` |
+| 🎤 AI Interview Mocker | 🤝 Creator-Brand Platform | 📊 Analytics Dashboard | 🔄 SkillSwap Platform |
+|:---:|:---:|:---:|:---:|
+| Next.js 16 · Gemini AI · Neon PostgreSQL · Drizzle ORM · Clerk | Next.js · Supabase · PostgreSQL · Google OAuth · Tailwind | Python · Power BI · scikit-learn · pandas · Excel | Next.js · MongoDB · Node.js · Google OAuth · Tailwind |
+| AI-generated questions · Voice recording · Instant feedback | Role-based access · Campaign lifecycle · Real-time metrics | 100K+ rows · 92% ML accuracy · 40% insight boost | Mentor-student collab · RBAC · 500+ potential users |
+| [🔗 Live Demo](https://ai-interview-mocker-prep.vercel.app) | `Full Stack` | `Data Science` | `Full Stack` |
 
 ---
 
@@ -53,8 +54,14 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI & Authentication
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 ### Data Science & ML
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
