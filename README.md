@@ -20,7 +20,7 @@
 - 🎓 **CS Graduate** — VTU 2025 · CGPA 7.06 · Top 15% of batch
 - 💼 **Data Science Intern** @ Take It Smart, Bangalore (Feb – May 2025)
 - 💼 **Web Development Intern** @ Dotch Endeavours, Mysore (Oct – Nov 2023)
-- 🔭 Currently building a **Creator-Brand Collaboration Platform**
+- 🔭 Currently builded a **AI Interview Mocker Platform**
 - 🌱 Deepening skills in **AI Integration & MERN Stack Development**
 - 💬 Ask me about **React · Next.js · Node.js · Supabase · Gemini AI**
 - ⚡ I just start the work & things get done somehow 😎 · Chess · Drawing
